@@ -1,0 +1,1 @@
+package com.mqtt.reader.model;
